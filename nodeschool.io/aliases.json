@@ -1,81 +1,49 @@
-[{
-        "from": "admin",
-        "to": [
-            "brianloveswords@gmail.com",
-            "martin.heidegger@gmail.com"
-        ]
-    },
+[
+  { "from": "admin", "to": [
+    "brianloveswords@gmail.com",
+    "martin.heidegger@gmail.com"
+  ] },
 
-    {
-        "from": "nyc",
-        "to": [
-            "brianloveswords@gmail.com"
-        ]
-    },
+  { "from": "nyc", "to": [
+    "brianloveswords@gmail.com"
+  ] },
 
-    {
-        "from": "brooklyn",
-        "to": [
-            "brianloveswords@gmail.com"
-        ]
-    },
+  { "from": "brooklyn", "to": [
+    "brianloveswords@gmail.com"
+  ] },
 
-    {
-        "from": "wellington",
-        "to": [
-            "michael.williams@enspiral.com"
-        ]
-    },
+  { "from": "wellington", "to": [
+    "michael.williams@enspiral.com"
+  ] },
 
-    {
-        "from": "london",
-        "to": [
-            "ian@nexttick.io"
-        ]
-    },
+  { "from": "london", "to": [
+    "ian@nexttick.io"
+  ] },
 
-    {
-        "from": "osaka",
-        "to": [
-            "martin.heidegger@gmail.com"
-        ]
-    },
+  { "from": "osaka", "to": [
+    "martin.heidegger@gmail.com"
+  ] },
 
-    {
-        "from": "campinas",
-        "to": [
-            "contato@fmoliveira.com.br",
-            "hi@felipemattos.io",
-            "me@victorperin.ninja"
-        ]
-    },
+  { "from": "campinas", "to": [
+    "contato@fmoliveira.com.br",
+    "hi@felipemattos.io",
+    "me@victorperin.ninja"
+  ] },
 
-    {
-        "from": "vancouver",
-        "to": [
-            "luke+nodeschool@vivier.ca"
-        ]
-    },
+  { "from": "vancouver", "to": [
+    "luke+nodeschool@vivier.ca"
+  ] },
 
-    {
-        "from": "stgo",
-        "to": [
-            "felipe.torressepulveda@gmail.com"
-        ]
-    },
+  { "from": "stgo", "to": [
+    "felipe.torressepulveda@gmail.com"
+  ] },
 
-    {
-        "from": "spb",
-        "to": [
-            "marinintim@gmail.com",
-            "glukki.spb.ru@gmail.com"
-        ]
-    },
+  { "from": "spb", "to": [
+    "marinintim@gmail.com",
+    "glukki.spb.ru@gmail.com"
+  ] },
 
-    {
-        "from": "kikinda",
-        "to": [
-            "marko_kazic@live.com"
-        ]
-    }
+  { "from": "kikinda", "to": [
+    "marko_kazic@live.com"
+  ] }
 ]
